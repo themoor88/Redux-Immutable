@@ -1,0 +1,21 @@
+{
+  "name": "redux-immtable",
+  "version": "1.0.0",
+  "description": "Sample app to get familiar with Redux, Immutable, Firebase and React. A clone of twitter with hot module reloading. Called birdder.",
+  "main": "firebase-schema.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themoor88/Redux-Immutable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themoor88/Redux-Immutable/issues"
+  },
+  "homepage": "https://github.com/themoor88/Redux-Immutable#readme"
+}
